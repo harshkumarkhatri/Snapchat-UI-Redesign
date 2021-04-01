@@ -1,8 +1,6 @@
-# snapchat_bottomnavbar_implementation
+# Snapchat UI redesign
 
-A new Flutter project.TODO: adding the sw
-ipe left and right feature to switch the bottom navigation items.
-* Added the option 5 screen and widgets in the option 5 and changed the layout of the bottom nav bar a bit
+A new Flutter project.
 
 ## Getting Started
 
